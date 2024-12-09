@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Uni High Final Project
 ---
 
 * TOC
@@ -8,15 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+I am Krishna 
 
 ## About My Project
 
-Project description goes here.
+My final project is a gambling game.
 
 [My Final Report](files/finalreport.pdf)
 

@@ -8,11 +8,11 @@ title: Uni High Final Project
 
 ## About Me
 
-I am Krishna 
+I am Krishna Jaswal!
 
 ## About My Project
 
-My final project is a gambling game.
+My final project is calcualting the possible combination of Dum Dum flavors in a bag based on how much it weighs (pounds). 
 
 [My Final Report](files/finalreport.pdf)
 

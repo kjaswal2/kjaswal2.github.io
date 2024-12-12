@@ -6,10 +6,10 @@
 name: Krishna
 
 # Short bio or description (displayed in the header)
-description: Final Project
+description: Final Project: Dum Dum distribution calculator!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar:
 
 #
 # Flags below are optional

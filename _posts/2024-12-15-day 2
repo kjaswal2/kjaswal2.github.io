@@ -1,0 +1,36 @@
+Day 2, 12/15/24
+
+
+For the past few days I have been working on trying out different programs to create GUI for my function. 
+
+After class on Thursday, I learned that I can't use Tkinter in Google Colab and instead would have to use an alternative, such as Git Bash to run Tkinter to run my GUI.
+However, after having some trouble in class, Git Bash on Windows was not working for some reason and was taking too long to debug during class. Well, that knocked out 
+my idea of using Git Bash to use Tkinter. So next, I decided to play with GUI programs that could be used in Colab. I started with Gradio, I used it before during a 
+computer programming workshop to make a chatbot, so I thought why not give it a try. I was able to import Gradio and create a simple interface where I had a input box
+and a button that when it was pressed, would generate the possible Dum Dum Flavors combination for the inputted number. My interface did work and didn't take me that
+long to create. I even spent some time customizing my interface to fit the theme of my project. I was still kind of sad I wasn't able to use Tkinter, so off I went to
+Google to find an alternative for Git Bash that would run Tkinter. I am not still completely sure what to use as an alternative to Git Bash, so I plan to talk to Lux 
+tomorrow to ask for some advice. Many of my friends have some informed me of what they are using to create their GUIs but everyone's project is different, so what they 
+are using might not fit well for my project's needs. I do know how to use Gradio and can use it to finish my project, but I would love to try something that might be a 
+bit more complex to create my GUI. I do have time so trying out different programs wouldn't be so bad. 
+
+When working with Gradio, I realized my function had to have a return statement rather than print statements, which is what I had. I changed my function accordingly. I 
+I really enjoyed working on the GUI because it really is bringing my project to life and I get to design certain elements of it to my choice! 
+
+
+Overview of my project
+I am making my project about Dum Dums because I love eating Dum Dums. They are the perfect stress reliever when I have tests or finals. Sometimes, I wonder like why I 
+get so many Lemon Lime Dum Dums rather than Strawberry Dum Dums, which are my favorite. That lead in to Google how Dum Dums does their distribution and I found out the 
+pops are randomly distributed, explaining why I don't get an equal number of Lemon Lime and Strawberry. This whole project seems really fun for me because every time I 
+call my function, I get a possible combination of the flavors for the inputted pound, and it symbolizes what I might get if I were to buy a bag of Dum Dums. It shows 
+the randomness of the flavors and how every pound of Dum Dums can be different and unique.
+
+After I create my project, I might share it with this one teacher who sometimes has Dum Dums at her desk for students to take. I think it would be cool to show her how
+Dum Dum distribution is random and how every bag she bags is different. Maybe she'll find it interesting. 
+
+The main format I see my project looking is a GUI where there is an input box where the user can input a number of pounds and there will be a button that when the user 
+clicks, it will call on the function that calculates the flavors and returns them to the user in a textbox! I hope to learn how to create a GUI that meets my wants to
+bring my project to life! 
+
+I have my main function done, I tried out at least one GUI that works, and am still trying out other programs to create my GUI. I hope to wrap up my GUI part of the 
+project by Tuesday so I can work on my presentation to share my work with the class! 

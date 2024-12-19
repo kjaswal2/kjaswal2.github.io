@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni High Final Project
+title: Uni High Computer Programming Final Project
 ---
 
 * TOC

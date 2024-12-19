@@ -1,6 +1,6 @@
 As I am wrapping this project up and reflecting on what I've learned, I leave the following thoughts. 
 
-Here is the file to my final code [here](../files/final_project (2).ipynb)!
+Here is the file to my final [code](../files/final_project(2).ipynb)!
 
 My tip for future students who are learning programming is to not wait until the last minute to do an assignment. When coding, it's important to have lots of time so you can think out your code and make it as efficient as possible. If you cram the work right before its due, often times things might be overlooked or the solution you find might not be the best because you didn't have enough time to ponder about it. I would also recommend students to ask questions when they are confused, don't wait until
 later to ask the question, if you're confused, ask clarifying questions. Programming also builds upon itself, so if you don't ask questions and are confused about something that is like a concept you cover in the beginning, learning new things that add onto that concept will be hard if you don't fully understand the original concept. So, start your homework on time and ask questions! 
